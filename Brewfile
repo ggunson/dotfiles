@@ -53,5 +53,4 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Slack", id: 803453959
 mas "TextWrangler", id: 404010395
-mas "Vogue MK2", id: 416578687
 mas "Xcode", id: 497799835
